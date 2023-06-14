@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Grants access to the Affirmations API and related metadata.</description>
+    <flowAccesses>
+        <enabled>true</enabled>
+        <flow>Affirmations_Screen_Flow</flow>
+    </flowAccesses>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Affirmations</label>
+</PermissionSet>
