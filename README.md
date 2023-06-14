@@ -6,7 +6,7 @@ Your Users need some daily inspiration on their Home Page, and the Affirmations 
 
 ## High-level steps:
 
-1. Create `Affirmations` External Credential
+1. Create `Anonymous` External Credential
 2. Create `Affirmations` Named Credential
 3. Create `Affirmations` Permission Set
 4. Create `Affirmations Screen Flow`
